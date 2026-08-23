@@ -45,10 +45,10 @@ Key areas analyzed include:
 
 ## Key Findings
 
-* Identified the strongest-performing products based on sales and profitability.
-* Compared revenue and profit performance across products and categories.
-* Analyzed overall business KPIs to evaluate store performance.
-* Used interactive Power BI visuals to make trends and performance easier to identify.
+- Revenue was strongest in Arts & Crafts, making it the top-performing category.
+- Arts & Crafts generated the highest overall profit.
+- [X] accounted for the largest share of units sold.
+- Overall profit margin was 27%, meaning the company keep $0.27 of every dollar sold.
 
 ## Project Files
 
