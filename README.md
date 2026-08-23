@@ -47,7 +47,7 @@ Key areas analyzed include:
 
 - Revenue was strongest in Arts & Crafts, making it the top-performing category.
 - Arts & Crafts generated the highest overall profit.
-- [X] accounted for the largest share of units sold.
+- Glass Marbles accounted for the largest share of units sold.
 - Overall profit margin was 27%, meaning the company keep $0.27 of every dollar sold.
 
 ## Project Files
